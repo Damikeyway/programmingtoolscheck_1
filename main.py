@@ -8,11 +8,24 @@
 # 7. When you are done, raise your hand. If you are correct, you will receive further instructions on how to add your code to github
 
 def print_hi_stephen():
+    name = 'Stephen'
     return f'Hi, {name}'
 
 
 def print_hi_you():
+    name = "Michael"
     return f'Hi, {name}'
+
+
+def print_hi_eric():
+    name = "Eric"
+    return f'Hi, {name}'
+
+
+
+
+
+
 
 
 #def print_hi_?():
